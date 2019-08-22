@@ -1,0 +1,22 @@
+{
+  "name": "karma-browserstack-browserslist-launchers",
+  "version": "0.1.0",
+  "description": "Automatic BrowserStack launchers based on browserslist config.",
+  "keywords": [
+    "karma-plugin",
+    "karma-launcher",
+    "browserstack",
+    "browser-stack"
+  ],
+  "license": "MIT",
+  "author": "Mikhail Bashkirov <bashmish@gmail.com>",
+  "repository": "github:bashmish/karma-browserstack-browserslist-launchers",
+  "homepage": "https://github.com/bashmish/karma-browserstack-browserslist-launchers#readme",
+  "bugs": "https://github.com/bashmish/karma-browserstack-browserslist-launchers/issues",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "@xerox/browserslist-browserstack": "^2.0.1",
+    "browserslist": "^4.6.6"
+  }
+}
